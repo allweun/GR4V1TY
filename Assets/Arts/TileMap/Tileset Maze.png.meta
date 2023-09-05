@@ -171,7 +171,7 @@ TextureImporter:
       213: -7075072257980280544
     second: Tileset Maze_55
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -188,9 +188,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -200,8 +203,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -222,9 +225,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -236,6 +245,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -248,6 +258,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -260,6 +271,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1731,9 +1769,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Tileset Maze_0: -5708587083877168119
+      Tileset Maze_1: 3401012220869680561
+      Tileset Maze_10: -5242503017593159555
+      Tileset Maze_11: 1048265283234714546
+      Tileset Maze_12: -4228065280200564248
+      Tileset Maze_13: 1694920079647491887
+      Tileset Maze_14: 7921867859381864601
+      Tileset Maze_15: -1067083335070896330
+      Tileset Maze_16: 5516371989450649169
+      Tileset Maze_17: 5012490276857161146
+      Tileset Maze_18: -895704378306991318
+      Tileset Maze_19: 7161305539720669340
+      Tileset Maze_2: 6283437207984894199
+      Tileset Maze_20: -1146311296243548076
+      Tileset Maze_21: -2277420504993059908
+      Tileset Maze_22: -509097584499332952
+      Tileset Maze_23: -1672568942026939107
+      Tileset Maze_24: -4021370505846239628
+      Tileset Maze_25: 1343013286161954701
+      Tileset Maze_26: 3486972857162420321
+      Tileset Maze_27: 3015686109091965325
+      Tileset Maze_28: 1158498602361810974
+      Tileset Maze_29: 9041233416054334277
+      Tileset Maze_3: 7489800131983829677
+      Tileset Maze_30: -1836026156921143061
+      Tileset Maze_31: 927480776810234293
+      Tileset Maze_32: -3328987628773448884
+      Tileset Maze_33: -5272500968585534579
+      Tileset Maze_34: 3803560668587066933
+      Tileset Maze_35: -2650965372062596349
+      Tileset Maze_36: -8473359042520117074
+      Tileset Maze_37: 2940918326041787153
+      Tileset Maze_38: -6233087934552136680
+      Tileset Maze_39: 5948181631242789933
+      Tileset Maze_4: -5020883132905446602
+      Tileset Maze_40: -463500466826755742
+      Tileset Maze_41: -7771067190306828299
+      Tileset Maze_42: -4149196256997252019
+      Tileset Maze_43: -5742277453408603107
+      Tileset Maze_44: 7987052240041231867
+      Tileset Maze_45: 9218801254950716107
+      Tileset Maze_46: -8849368089320245866
+      Tileset Maze_47: 4837508474362227245
+      Tileset Maze_48: 8527978118483293364
+      Tileset Maze_49: -1033100012400167304
+      Tileset Maze_5: 5008636214086282038
+      Tileset Maze_50: 4591983956742095207
+      Tileset Maze_51: -8565087676165577295
+      Tileset Maze_52: 1201186132489859500
+      Tileset Maze_53: -3278933948747552148
+      Tileset Maze_54: -7986320712701826641
+      Tileset Maze_55: -7075072257980280544
+      Tileset Maze_6: -2885551402251787074
+      Tileset Maze_7: 642210757416392501
+      Tileset Maze_8: -875736550012892487
+      Tileset Maze_9: 2058462985606487624
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

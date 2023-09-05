@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.Advertisements;
 using System;
 
-public class DailyReward : MonoBehaviour, IUnityAdsListener
+public class DailyReward : MonoBehaviour
 {
     [Header("Zamanın çekildiği api")]
     public string url = "http://worldclockapi.com/api/json/est/now";
@@ -34,14 +33,14 @@ public class DailyReward : MonoBehaviour, IUnityAdsListener
 
     void Start()
     {
-        Advertisement.AddListener (this);
-        Advertisement.Initialize (gameId, testMode);
-        dailyButton.interactable = Advertisement.IsReady (myPlacementId); 
+        //Advertisement.AddListener (this);
+        //Advertisement.Initialize (gameId, testMode);
+        //dailyButton.interactable = Advertisement.IsReady (myPlacementId); 
         StartCoroutine(CheckConnection());
     }
     
     void ShowRewardedVideo () {
-        Advertisement.Show (myPlacementId);
+        //Advertisement.Show (myPlacementId);
     }
     void FixedUpdate(){
         if(!canTakeReward){
@@ -150,7 +149,7 @@ public class DailyReward : MonoBehaviour, IUnityAdsListener
     public void RewardButton(){
         if(canTakeReward && connected){
             canTakeReward = false;
-            dailyButton.interactable = Advertisement.IsReady (myPlacementId);
+            //dailyButton.interactable = Advertisement.IsReady (myPlacementId);
 
 
             StartCoroutine(dataForButton());
@@ -165,21 +164,21 @@ public class DailyReward : MonoBehaviour, IUnityAdsListener
         // If the ready Placement is rewarded, activate the button: 
         if (placementId == myPlacementId) {
             if(canTakeReward&&connected){
-                dailyButton.interactable = Advertisement.IsReady (myPlacementId);        
+                //dailyButton.interactable = Advertisement.IsReady (myPlacementId);        
             }
             else{
                 dailyButton.interactable = false;
             }
         }
     }
-    public void OnUnityAdsDidFinish (string placementId, ShowResult showResult) {
+    public void OnUnityAdsDidFinish (string placementId) {
         // Define conditional logic for each ad completion status:
-        if (placementId == myPlacementId)
-        if (showResult == ShowResult.Finished) {
-            PlayerPrefs.SetInt("Coins",(PlayerPrefs.GetInt("Coins")+1000));
-        } else if (showResult == ShowResult.Skipped) {
-        } else if (showResult == ShowResult.Failed) {
-        }
+        //if (placementId == myPlacementId)
+        //if (showResult == ShowResult.Finished) {
+        //    PlayerPrefs.SetInt("Coins",(PlayerPrefs.GetInt("Coins")+1000));
+        //} else if (showResult == ShowResult.Skipped) {
+        //} else if (showResult == ShowResult.Failed) {
+        //}
     }
     public void OnUnityAdsDidError (string message) {
         //Debug.Log(message);

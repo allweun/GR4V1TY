@@ -1,9 +1,8 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.Advertisements;
 
 [RequireComponent (typeof (Button))]
-public class RewardedAds : MonoBehaviour, IUnityAdsListener {
+public class RewardedAds : MonoBehaviour {
 
     #if UNITY_IOS
     private string gameId = "3462990";
@@ -19,19 +18,19 @@ public class RewardedAds : MonoBehaviour, IUnityAdsListener {
         myButton = GetComponent <Button> ();
 
         // Set interactivity to be dependent on the Placement’s status:
-        myButton.interactable = Advertisement.IsReady (myPlacementId); 
+        //myButton.interactable = Advertisement.IsReady (myPlacementId); 
 
         // Map the ShowRewardedVideo function to the button’s click listener:
         if (myButton) myButton.onClick.AddListener (ShowRewardedVideo);
 
         // Initialize the Ads listener and service:
-        Advertisement.AddListener (this);
-        Advertisement.Initialize (gameId, testMode);
+        //Advertisement.AddListener (this);
+        //Advertisement.Initialize (gameId, testMode);
     }
 
     // Implement a function for showing a rewarded video ad:
     void ShowRewardedVideo () {
-        Advertisement.Show (myPlacementId);
+        //Advertisement.Show (myPlacementId);
     }
 
     // Implement IUnityAdsListener interface methods:
@@ -48,21 +47,21 @@ public class RewardedAds : MonoBehaviour, IUnityAdsListener {
         }
     }
 
-    public void OnUnityAdsDidFinish (string placementId, ShowResult showResult) {
+    public void OnUnityAdsDidFinish (string placementId) {
         // Define conditional logic for each ad completion status:
-        if (showResult == ShowResult.Finished) {
-            PlayerPrefs.SetInt("Coins",PlayerPrefs.GetInt("Coins")+(PlayerPrefs.GetInt("rewardedCoin")*2));
-            PlayerPrefs.SetInt("rewardedCoin",0);
-            doubleCoinAdFinished=true;
-            myButton.interactable=false;
-            Debug.Log("calisti1");
-        } else if (showResult == ShowResult.Skipped) {
-            PlayerPrefs.SetInt("rewardedCoin",0);
-            Debug.Log("calisti2");
-        } else if (showResult == ShowResult.Failed) {
-            PlayerPrefs.SetInt("rewardedCoin",0);
-            Debug.Log("calisti3");
-        }
+        //if (showResult == ShowResult.Finished) {
+        //    PlayerPrefs.SetInt("Coins",PlayerPrefs.GetInt("Coins")+(PlayerPrefs.GetInt("rewardedCoin")*2));
+        //    PlayerPrefs.SetInt("rewardedCoin",0);
+        //    doubleCoinAdFinished=true;
+        //    myButton.interactable=false;
+        //    Debug.Log("calisti1");
+        //} else if (showResult == ShowResult.Skipped) {
+        //    PlayerPrefs.SetInt("rewardedCoin",0);
+        //    Debug.Log("calisti2");
+        //} else if (showResult == ShowResult.Failed) {
+        //    PlayerPrefs.SetInt("rewardedCoin",0);
+        //    Debug.Log("calisti3");
+        //}
     }
 
     public void OnUnityAdsDidError (string message) {

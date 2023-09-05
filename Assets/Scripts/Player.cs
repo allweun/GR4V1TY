@@ -50,9 +50,9 @@ public class Player : MonoBehaviour
         }
         if(!PlayerPrefs.HasKey("isLevelEnded0"))
             PlayerPrefs.SetInt("isLevelEnded0",0);
-        if(PlayerPrefs.GetInt("tutorialPassed")!=1){
-            TutorialPanel.SetActive(true);
-        }
+        //if(PlayerPrefs.GetInt("tutorialPassed")!=1){
+        //    TutorialPanel.SetActive(true);
+        //}
     }
 
     void Start()
