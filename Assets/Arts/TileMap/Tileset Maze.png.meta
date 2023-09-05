@@ -1,0 +1,1739 @@
+fileFormatVersion: 2
+guid: 72526611f9519b346aac7f7c13309ec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5708587083877168119
+    second: Tileset Maze_0
+  - first:
+      213: 3401012220869680561
+    second: Tileset Maze_1
+  - first:
+      213: 6283437207984894199
+    second: Tileset Maze_2
+  - first:
+      213: 7489800131983829677
+    second: Tileset Maze_3
+  - first:
+      213: -5020883132905446602
+    second: Tileset Maze_4
+  - first:
+      213: 5008636214086282038
+    second: Tileset Maze_5
+  - first:
+      213: -2885551402251787074
+    second: Tileset Maze_6
+  - first:
+      213: 642210757416392501
+    second: Tileset Maze_7
+  - first:
+      213: -875736550012892487
+    second: Tileset Maze_8
+  - first:
+      213: 2058462985606487624
+    second: Tileset Maze_9
+  - first:
+      213: -5242503017593159555
+    second: Tileset Maze_10
+  - first:
+      213: 1048265283234714546
+    second: Tileset Maze_11
+  - first:
+      213: -4228065280200564248
+    second: Tileset Maze_12
+  - first:
+      213: 1694920079647491887
+    second: Tileset Maze_13
+  - first:
+      213: 7921867859381864601
+    second: Tileset Maze_14
+  - first:
+      213: -1067083335070896330
+    second: Tileset Maze_15
+  - first:
+      213: 5516371989450649169
+    second: Tileset Maze_16
+  - first:
+      213: 5012490276857161146
+    second: Tileset Maze_17
+  - first:
+      213: -895704378306991318
+    second: Tileset Maze_18
+  - first:
+      213: 7161305539720669340
+    second: Tileset Maze_19
+  - first:
+      213: -1146311296243548076
+    second: Tileset Maze_20
+  - first:
+      213: -2277420504993059908
+    second: Tileset Maze_21
+  - first:
+      213: -509097584499332952
+    second: Tileset Maze_22
+  - first:
+      213: -1672568942026939107
+    second: Tileset Maze_23
+  - first:
+      213: -4021370505846239628
+    second: Tileset Maze_24
+  - first:
+      213: 1343013286161954701
+    second: Tileset Maze_25
+  - first:
+      213: 3486972857162420321
+    second: Tileset Maze_26
+  - first:
+      213: 3015686109091965325
+    second: Tileset Maze_27
+  - first:
+      213: 1158498602361810974
+    second: Tileset Maze_28
+  - first:
+      213: 9041233416054334277
+    second: Tileset Maze_29
+  - first:
+      213: -1836026156921143061
+    second: Tileset Maze_30
+  - first:
+      213: 927480776810234293
+    second: Tileset Maze_31
+  - first:
+      213: -3328987628773448884
+    second: Tileset Maze_32
+  - first:
+      213: -5272500968585534579
+    second: Tileset Maze_33
+  - first:
+      213: 3803560668587066933
+    second: Tileset Maze_34
+  - first:
+      213: -2650965372062596349
+    second: Tileset Maze_35
+  - first:
+      213: -8473359042520117074
+    second: Tileset Maze_36
+  - first:
+      213: 2940918326041787153
+    second: Tileset Maze_37
+  - first:
+      213: -6233087934552136680
+    second: Tileset Maze_38
+  - first:
+      213: 5948181631242789933
+    second: Tileset Maze_39
+  - first:
+      213: -463500466826755742
+    second: Tileset Maze_40
+  - first:
+      213: -7771067190306828299
+    second: Tileset Maze_41
+  - first:
+      213: -4149196256997252019
+    second: Tileset Maze_42
+  - first:
+      213: -5742277453408603107
+    second: Tileset Maze_43
+  - first:
+      213: 7987052240041231867
+    second: Tileset Maze_44
+  - first:
+      213: 9218801254950716107
+    second: Tileset Maze_45
+  - first:
+      213: -8849368089320245866
+    second: Tileset Maze_46
+  - first:
+      213: 4837508474362227245
+    second: Tileset Maze_47
+  - first:
+      213: 8527978118483293364
+    second: Tileset Maze_48
+  - first:
+      213: -1033100012400167304
+    second: Tileset Maze_49
+  - first:
+      213: 4591983956742095207
+    second: Tileset Maze_50
+  - first:
+      213: -8565087676165577295
+    second: Tileset Maze_51
+  - first:
+      213: 1201186132489859500
+    second: Tileset Maze_52
+  - first:
+      213: -3278933948747552148
+    second: Tileset Maze_53
+  - first:
+      213: -7986320712701826641
+    second: Tileset Maze_54
+  - first:
+      213: -7075072257980280544
+    second: Tileset Maze_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset Maze_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -20.990963, y: 24}
+        - {x: -20.979494, y: -20.98941}
+        - {x: 24, y: -21.024536}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde1e451d58e05841b4034660e716bd5
+      internalID: -5708587083877168119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.014618}
+        - {x: 20.982803, y: -20.996643}
+        - {x: 21.007156, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423f52473530cd43b983eae5e442c40
+      internalID: 3401012220869680561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21.009338, y: 21.025513}
+        - {x: -21.005112, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.001038}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd07fcfbbf7637842bc5063df1c28052
+      internalID: 6283437207984894199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21.004608, y: -24}
+        - {x: 21.005249, y: 21.001678}
+        - {x: -24, y: 21.026245}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f51cca84505114ba9ec2b250aeb550
+      internalID: 7489800131983829677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -20.984497, y: 24}
+        - {x: -21.013062, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058a8fe1b504014a8ff6a625c5b290a
+      internalID: -5020883132905446602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 21.013031}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 20.992035}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c5d6306abf88047969140b6b14630b
+      internalID: 5008636214086282038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.99469, y: -24}
+        - {x: 21.003723, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cbb55485592f14a9f2258e00711618
+      internalID: -2885551402251787074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -20.97879}
+        - {x: 24, y: -20.994598}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d712447e11ee40444b4450c91bbe5500
+      internalID: 642210757416392501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.018707, y: 24}
+        - {x: -21.015137, y: -21.008423}
+        - {x: 24, y: -20.994812}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da58db752cfc1614f89536a7676d8a21
+      internalID: -875736550012892487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.029541}
+        - {x: 21.00489, y: -21.0112}
+        - {x: 20.998947, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d327ed4b03b104b84889e386781e23
+      internalID: 2058462985606487624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.993805, y: 21.026855}
+        - {x: -20.992905, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.003143}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a1b67b0d6a33f48a62f5af6781ab78
+      internalID: -5242503017593159555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21.005997, y: -24}
+        - {x: 21.010223, y: 20.989685}
+        - {x: -24, y: 21.019775}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08568e5e43a220499820668045b4f52
+      internalID: 1048265283234714546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.019348, y: 24}
+        - {x: -21.019287, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa35d4fab498e54f885693d30c25e32
+      internalID: -4228065280200564248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 20.987122}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 20.999817}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26052349a9acbc438407c581c1b0b12
+      internalID: 1694920079647491887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.998047, y: -24}
+        - {x: 20.990906, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4e91db24767b44864f013afcb237c
+      internalID: 7921867859381864601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.010803}
+        - {x: 24, y: -20.980377}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a32114b29e774ea727b0d3a961085
+      internalID: -1067083335070896330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -20.99961, y: 24}
+        - {x: -20.991625, y: -21.029297}
+        - {x: 24, y: -21.01239}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6218c7441ec20bd4ca87dff1569eee82
+      internalID: 5516371989450649169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.031128}
+        - {x: 20.999245, y: -21.020782}
+        - {x: 20.976807, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444ce5abf5e869d47a030a4dcb917ac2
+      internalID: 5012490276857161146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.99965, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.021759}
+        - {x: -20.985962, y: 20.991882}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e32326ce29f841824de6d3f31b91a
+      internalID: -895704378306991318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.996994, y: -24}
+        - {x: 21.014648, y: 21.022552}
+        - {x: -24, y: 20.994476}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd415c77ab009cd43b3d391c44913e6e
+      internalID: 7161305539720669340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.002472, y: 24}
+        - {x: -21.0094, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af082ac5dded71644b00d79133b1fdd8
+      internalID: -1146311296243548076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 21.015045}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 20.998749}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50670831acdbdfc4ab0fab2e0d0485c7
+      internalID: -2277420504993059908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.982483, y: -24}
+        - {x: 21.001556, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd9c67d337586847bc5ab3882d851ae
+      internalID: -509097584499332952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.011658}
+        - {x: 24, y: -21.005157}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87ec4de9bb8c24f99af1df11b6da18
+      internalID: -1672568942026939107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -20.999563, y: 24}
+        - {x: -20.98301, y: -21.00824}
+        - {x: 24, y: -21.01529}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3bda5d43695342907a597a3007d4d
+      internalID: -4021370505846239628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.013412}
+        - {x: 21.018692, y: -21.019958}
+        - {x: 20.982689, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c4ba6380b9581458649d6e37acec5d
+      internalID: 1343013286161954701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.99202, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.029907}
+        - {x: -20.978119, y: 21.012741}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad4c929b71dd534aa2f79abbe21ae90
+      internalID: 3486972857162420321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21.009155, y: -24}
+        - {x: 20.98117, y: 21.024673}
+        - {x: -24, y: 21.003128}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa2bcc5a3b22e942a34446ef69042d5
+      internalID: 3015686109091965325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.024475, y: 24}
+        - {x: -21.004272, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d740749b2ee6442925426580e5db7b
+      internalID: 1158498602361810974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 21.015472}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.033371}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a81ae661953a5489bfe3702db1a06d
+      internalID: 9041233416054334277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.979736, y: -24}
+        - {x: 21.010681, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990a60ea0c81d640ad21bec022fcd1c
+      internalID: -1836026156921143061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.007462}
+        - {x: 24, y: -21.010406}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0728e7ac2c5946ba9a948ed4a6992
+      internalID: 927480776810234293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.006315, y: 24}
+        - {x: -20.986744, y: -21.002884}
+        - {x: 24, y: -21.019241}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1061610c36bf4dad55d42ac4b3fb6
+      internalID: -3328987628773448884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.039825}
+        - {x: 21.006142, y: -21.000854}
+        - {x: 21.002365, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e343d7e36d7a1442b1add5df0307c51
+      internalID: -5272500968585534579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21.021332, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.013428}
+        - {x: -21.024078, y: 21.0085}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdf26b2e01ea6246a579404d6db1867
+      internalID: 3803560668587066933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.988358, y: -24}
+        - {x: 21.017288, y: 21.025894}
+        - {x: -24, y: 21.020996}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ffdc5c91288e44883f657694341d04
+      internalID: -2650965372062596349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.014435, y: 24}
+        - {x: -21.008911, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43022b818330623429b0b17c05f042ff
+      internalID: -8473359042520117074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 21.02745}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.018478}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec94d56d1bd81443a097b420d2f108c
+      internalID: 2940918326041787153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21.003235, y: -24}
+        - {x: 20.997375, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b48f5355e2ff04aa22263553887e3e
+      internalID: -6233087934552136680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -20.992813}
+        - {x: 24, y: -21.011139}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ec6dac726caa48b81c964c07154f5
+      internalID: 5948181631242789933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.014503, y: 24}
+        - {x: -21.017494, y: -21.01014}
+        - {x: 24, y: -21.007248}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b23551039738a4f8d08bbc21a92601
+      internalID: -463500466826755742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.014236}
+        - {x: 20.990364, y: -20.993881}
+        - {x: 21.008842, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4f01be4e37e3439e771a651ff61bc
+      internalID: -7771067190306828299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.980484, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.01345}
+        - {x: -20.98793, y: 21.024422}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1955235c7f1ff48b9d81221e6355a1
+      internalID: -4149196256997252019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21.034546, y: -24}
+        - {x: 20.976334, y: 21.018326}
+        - {x: -24, y: 21.00924}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0223cd8f881c81d4f9f197b1e06cfbb4
+      internalID: -5742277453408603107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.018219, y: 24}
+        - {x: -21.021545, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a2759cac232041a71693808119f3c
+      internalID: 7987052240041231867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 21.019516}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.00689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34b107a523152c4dba1a1f2447f13bf
+      internalID: 9218801254950716107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.96936, y: -24}
+        - {x: 20.99118, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f9a48091c77014ba59de0e3d0a80c6
+      internalID: -8849368089320245866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.00608}
+        - {x: 24, y: -21.006775}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f259f764290d2b459471a1339dcf577
+      internalID: 4837508474362227245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -20.998764, y: 24}
+        - {x: -21.02502, y: -21.009426}
+        - {x: 24, y: -20.999706}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5a502a5785ef409622c520691a784
+      internalID: 8527978118483293364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.000887}
+        - {x: 21.001007, y: -21.013256}
+        - {x: 21.019142, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d2e840f8b76374cbd2c836252c3a00
+      internalID: -1033100012400167304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21.01683, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 20.9934}
+        - {x: -21.018433, y: 21.026379}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82647f99a91abd641a224d11c4f1c049
+      internalID: 4591983956742095207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.993408, y: -24}
+        - {x: 20.99321, y: 20.997433}
+        - {x: -24, y: 21.018082}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da365444d4ad054697f0db0674dcabd
+      internalID: -8565087676165577295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: -21.03424, y: 24}
+        - {x: -21.016144, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a53c33591b4443b496f3a46574d21
+      internalID: 1201186132489859500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 21.014267}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: 21.022137}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c83fa8d1def1448938f8abd81ab15
+      internalID: -3278933948747552148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21.009216, y: -24}
+        - {x: 21.01474, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0029a11f741b02541b583efce65ce5d5
+      internalID: -7986320712701826641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Maze_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: -24, y: -21.01118}
+        - {x: 24, y: -20.98866}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c79739e43b894a94c7b76c5a92a3c
+      internalID: -7075072257980280544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
